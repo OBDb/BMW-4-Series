@@ -3,6 +3,28 @@
   "signals": [
     {"id": "4SERIES_VSS2", "path": "Movement", "fmt": { "len": 16, "max": 255, "div": 100, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "High resolution vehicle speed."}
   ]},
+{ "hdr": "6F1", "rax": "612", "eax": "12", "fcm1": true, "dbg": true, "cmd": {"22": "586F"}, "freq": 30,
+  "signals": [
+    {"id": "4SERIES_EOP", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil pressure"}
+  ]},
+{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "dbg": true, "cmd": {"22": "DA12"}, "freq": 30,
+  "signals": [
+    {"id": "4SERIES_ATF_TEMP", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "ATF temperature"}
+  ]},
+{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "dbg": true, "cmd": {"22": "DA25"}, "freq": 30,
+  "signals": [
+    {"id": "4SERIES_EOT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil temperature"}
+  ]},
+{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "dbg": true, "cmd": {"22": "DA2E"}, "freq": 30,
+  "signals": [
+    {"id": "4SERIES_GEAR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+  ]},
+{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "dbg": true, "cmd": {"22": "DA37"}, "freq": 30,
+  "signals": [
+    {"id": "4SERIES_TIME_D", "path": "Engine", "fmt": {           "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in D"},
+    {"id": "4SERIES_TIME_S", "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in S"},
+    {"id": "4SERIES_TIME_M", "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in M"}
+  ]},
 { "hdr": "6F1", "rax": "629", "eax": "29", "fcm1": true, "cmd": {"22": "DBE4"}, "freq": 0.25,
   "signals": [
     {"id": "4SERIES_FL_SPD", "path": "Movement", "fmt": {           "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
