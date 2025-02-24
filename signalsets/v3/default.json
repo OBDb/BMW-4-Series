@@ -131,9 +131,9 @@
   "signals": [
     {"id": "UNK_D23B", "path": "aTest", "fmt": { "len": 8, "max": 255, "unit": "hex" }, "name": "D23B"}
   ]},
-{ "hdr": "6F1", "rax": "60D", "eax": "0D", "fcm1": true, "dbg": true, "cmd": {"22": "D240"}, "freq": 30,
+{ "hdr": "6F1", "rax": "60D", "eax": "0D", "fcm1": true, "cmd": {"22": "D240"}, "freq": 0.25,
   "signals": [
-    {"id": "UNK_D240", "path": "aTest", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "D240 speed-related?", "description": "Some kind of counter that goes up and down over time"}
+    {"id": "4SERIES_VSS_INSTR", "path": "Movement", "fmt": { "len": 16, "max": 1000, "unit": "kilometersPerHour" }, "name": "Vehicle speed (instrument cluster)", "suggestedMetric": "speed", "description": "Instrument cluster vehicle speed."}
   ]},
 { "hdr": "6F1", "rax": "60D", "eax": "0D", "fcm1": true, "dbg": true, "cmd": {"22": "D241"}, "freq": 30,
   "signals": [
