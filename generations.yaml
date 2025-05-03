@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (F32/F33/F36)"
+    start_year: 2013
+    end_year: 2020
+    description: "The inaugural BMW 4 Series separated the coupe and convertible models from the 3 Series lineup, establishing a distinct identity for these sportier body styles. The range included the F32 coupe, F33 convertible (with retractable hardtop), and F36 Gran Coupe (a four-door fastback). Engine options mirrored the F30 3 Series, ranging from efficient four-cylinders to powerful six-cylinder units in the 440i. The high-performance M4 featured a twin-turbocharged 3.0L straight-six producing 425-450 HP. The first-generation 4 Series offered slightly sharper styling and dynamics compared to the 3 Series, with a lower center of gravity and wider track."
+
+  - name: "Second Generation (G22/G23/G26)"
+    start_year: 2020
+    end_year: null
+    description: "The current 4 Series features a controversial new design direction dominated by a large, vertical kidney grille. Available as a G22 coupe, G23 convertible (now with a fabric roof instead of a retractable hardtop), and G26 Gran Coupe, it offers a more distinct visual separation from the 3 Series. The chassis has been significantly enhanced for improved dynamics, with a lower center of gravity and increased torsional rigidity. Engine options range from the 420i's four-cylinder to the M440i's 374 HP six-cylinder, with mild-hybrid technology on some variants. The M4 delivers up to 503 HP in Competition form, with optional all-wheel drive. The interior features BMW's latest technology including advanced digital displays and driver assistance systems. Despite the controversial styling, the second-generation 4 Series continues to offer engaging driving dynamics with improved refinement and technology."
