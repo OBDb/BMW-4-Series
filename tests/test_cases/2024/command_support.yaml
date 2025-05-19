@@ -76,3 +76,6 @@ unsupported_commands_by_ecu:
   - 6F1.618.22DA25
   - 6F1.618.22DA2E
   - 6F1.618.22DA37
+  7E0:
+  - 7E0.7E8.012F
+  - 7E0.7E8.0131
