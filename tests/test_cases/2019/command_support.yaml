@@ -1377,11 +1377,13 @@ supported_commands_by_ecu:
   - 6F1.660.22D10D|e=60,fc=1:4SERIES_ODO1,4SERIES_ODO2
   "7DF":
   - 7DF.0103
+  - 7DF.010C
   - 7DF.011C
   - 7DF.011F
   - 7DF.012F
   - 7DF.0130
   - 7DF.0131
+  - 7DF.0142
   - 7DF.0146
   - 7DF.015C
   - 7DF.018E
