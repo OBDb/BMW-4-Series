@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     4SERIES_VSS2: 0
   response: 612F105624AB10000
+- expected_values:
+    4SERIES_VSS2: 5.64
+  response: 612F105624AB10234
+- expected_values:
+    4SERIES_VSS2: 9.04
+  response: 612F105624AB10388
+- expected_values:
+    4SERIES_VSS2: 10.23
+  response: 612F105624AB103FF
+- expected_values:
+    4SERIES_VSS2: 22.36
+  response: 612F105624AB108BC
+- expected_values:
+    4SERIES_VSS2: 25.43
+  response: 612F105624AB109EF
+- expected_values:
+    4SERIES_VSS2: 44.06
+  response: 612F105624AB11136
+- expected_values:
+    4SERIES_VSS2: 57.71
+  response: 612F105624AB1168B
+- expected_values:
+    4SERIES_VSS2: 69.21
+  response: 612F105624AB11B09
+- expected_values:
+    4SERIES_VSS2: 71.61
+  response: 612F105624AB11BF9
