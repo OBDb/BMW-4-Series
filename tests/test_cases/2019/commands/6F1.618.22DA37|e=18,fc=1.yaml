@@ -74,6 +74,14 @@ test_cases:
     618F1220000403FFFFF
 - expected_values:
     4SERIES_TIME_D: 0
+    4SERIES_TIME_M: 84
+    4SERIES_TIME_S: 125
+  response: |-
+    618F1100F62DA37007D
+    618F12154D700013D03
+    618F12200004059FFFF
+- expected_values:
+    4SERIES_TIME_D: 0
     4SERIES_TIME_M: 167
     4SERIES_TIME_S: 138
   response: |-
