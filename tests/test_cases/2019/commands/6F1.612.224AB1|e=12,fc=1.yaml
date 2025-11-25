@@ -7,5 +7,5 @@ test_cases:
     4SERIES_VSS2: 10.23
   response: 612F105624AB103FF
 - expected_values:
-    4SERIES_VSS2: 136.78
-  response: 612F105624AB1356E
+    4SERIES_VSS2: 143.23
+  response: 612F105624AB137F3
