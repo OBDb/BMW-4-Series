@@ -6,3 +6,9 @@ test_cases:
   response: |-
     660F1100B62D10D0003
     660F121173A0003173A
+- expected_values:
+    4SERIES_ODO1: 202749
+    4SERIES_ODO2: 202749
+  response: |-
+    660F1100B62D10D0003
+    660F12117FD000317FD
