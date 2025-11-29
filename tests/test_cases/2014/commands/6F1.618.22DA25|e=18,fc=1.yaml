@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     4SERIES_EOT: 0
   response: 618F10562DA25005A
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25006B
