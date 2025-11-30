@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     4SERIES_VSS: 0
   response: 660F10562D1070000
+- expected_values:
+    4SERIES_VSS: 1.1
+  response: 660F10562D107000B
+- expected_values:
+    4SERIES_VSS: 20.9
+  response: 660F10562D10700D1
+- expected_values:
+    4SERIES_VSS: 21
+  response: 660F10562D10700D2
+- expected_values:
+    4SERIES_VSS: 50.2
+  response: 660F10562D10701F6
+- expected_values:
+    4SERIES_VSS: 51.5
+  response: 660F10562D1070203
+- expected_values:
+    4SERIES_VSS: 63.1
+  response: 660F10562D1070277
+- expected_values:
+    4SERIES_VSS: 85.2
+  response: 660F10562D1070354
