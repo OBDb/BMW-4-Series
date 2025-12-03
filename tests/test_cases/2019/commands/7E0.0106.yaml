@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SHRTFT1: -11.71875
   response: '7E803410671'
+- expected_values:
+    SHRTFT1: -1.5625
+  response: 7E80341067E
