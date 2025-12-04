@@ -73,6 +73,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 7E1.7E9.0104
   - 7E1.7E9.0105
+  - 7E1.7E9.011C
   - 7E1.7E9.0131
 unsupported_commands_by_ecu:
   "6F1":
@@ -82,6 +83,7 @@ unsupported_commands_by_ecu:
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
   - 7E0.0110:MAF
+  - 7E0.011C:OBDSUP
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
