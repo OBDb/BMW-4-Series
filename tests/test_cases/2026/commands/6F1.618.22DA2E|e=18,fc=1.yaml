@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     4SERIES_GEAR: 1
   response: 618F10562DA2E0101
+- expected_values:
+    4SERIES_GEAR: 3
+  response: 618F10562DA2E0303
+- expected_values:
+    4SERIES_GEAR: 4
+  response: 618F10562DA2E0403
+- expected_values:
+    4SERIES_GEAR: 7
+  response: 618F10562DA2E0703
+- expected_values:
+    4SERIES_GEAR: 8
+  response: 618F10562DA2E0803
+- expected_values:
+    4SERIES_GEAR: 9
+  response: 618F10562DA2E0903
