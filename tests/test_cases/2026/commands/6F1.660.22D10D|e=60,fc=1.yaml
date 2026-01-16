@@ -1,0 +1,8 @@
+command_id: 6F1.660.22D10D|e=60,fc=1
+test_cases:
+- expected_values:
+    4SERIES_ODO1: 2566
+    4SERIES_ODO2: 2566
+  response: |-
+    660F1100B62D10D0000
+    660F1210A0600000A06
