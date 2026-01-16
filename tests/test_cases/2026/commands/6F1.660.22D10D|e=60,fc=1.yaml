@@ -6,3 +6,27 @@ test_cases:
   response: |-
     660F1100B62D10D0000
     660F1210A0600000A06
+- expected_values:
+    4SERIES_ODO1: 2567
+    4SERIES_ODO2: 2567
+  response: |-
+    660F1100B62D10D0000
+    660F1210A0700000A07
+- expected_values:
+    4SERIES_ODO1: 2568
+    4SERIES_ODO2: 2568
+  response: |-
+    660F1100B62D10D0000
+    660F1210A0800000A08
+- expected_values:
+    4SERIES_ODO1: 2569
+    4SERIES_ODO2: 2569
+  response: |-
+    660F1100B62D10D0000
+    660F1210A0900000A09
+- expected_values:
+    4SERIES_ODO1: 2570
+    4SERIES_ODO2: 2570
+  response: |-
+    660F1100B62D10D0000
+    660F1210A0A00000A0A
