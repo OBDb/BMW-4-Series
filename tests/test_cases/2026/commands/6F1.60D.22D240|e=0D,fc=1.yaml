@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     4SERIES_VSS_INSTR: 0
   response: 60DF10562D2400000
+- expected_values:
+    4SERIES_VSS_INSTR: 2
+  response: 60DF10562D2400002
+- expected_values:
+    4SERIES_VSS_INSTR: 20
+  response: 60DF10562D2400014
+- expected_values:
+    4SERIES_VSS_INSTR: 37
+  response: 60DF10562D2400025
+- expected_values:
+    4SERIES_VSS_INSTR: 44
+  response: 60DF10562D240002C
+- expected_values:
+    4SERIES_VSS_INSTR: 47
+  response: 60DF10562D240002F
+- expected_values:
+    4SERIES_VSS_INSTR: 55
+  response: 60DF10562D2400037
+- expected_values:
+    4SERIES_VSS_INSTR: 63
+  response: 60DF10562D240003F
+- expected_values:
+    4SERIES_VSS_INSTR: 72
+  response: 60DF10562D2400048
