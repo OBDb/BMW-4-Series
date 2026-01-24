@@ -1,6 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_4_Series"
+
 generations:
   - name: "First Generation (F32/F33/F36)"
-    start_year: 2013
+    start_year: 2014
     end_year: 2020
     description: "The inaugural BMW 4 Series separated the coupe and convertible models from the 3 Series lineup, establishing a distinct identity for these sportier body styles. The range included the F32 coupe, F33 convertible (with retractable hardtop), and F36 Gran Coupe (a four-door fastback). Engine options mirrored the F30 3 Series, ranging from efficient four-cylinders to powerful six-cylinder units in the 440i. The high-performance M4 featured a twin-turbocharged 3.0L straight-six producing 425-450 HP. The first-generation 4 Series offered slightly sharper styling and dynamics compared to the 3 Series, with a lower center of gravity and wider track."
 
