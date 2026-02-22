@@ -84,3 +84,5 @@ unsupported_commands_by_ecu:
   - 7E0.015C:EOT
   - 7E0.015E:FUEL_RATE
   - 7E0.01A6:ODO
+  "7E1":
+  - 7E1.7E9.0111
