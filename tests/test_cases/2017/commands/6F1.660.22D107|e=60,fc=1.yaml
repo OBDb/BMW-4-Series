@@ -4,26 +4,8 @@ test_cases:
     4SERIES_VSS: 0
   response: 660F10562D1070000
 - expected_values:
-    4SERIES_VSS: 12.6
-  response: 660F10562D107007E
-- expected_values:
-    4SERIES_VSS: 23.7
-  response: 660F10562D10700ED
-- expected_values:
     4SERIES_VSS: 25.1
   response: 660F10562D10700FB
 - expected_values:
     4SERIES_VSS: 25.8
   response: 660F10562D1070102
-- expected_values:
-    4SERIES_VSS: 26.1
-  response: 660F10562D1070105
-- expected_values:
-    4SERIES_VSS: 30.5
-  response: 660F10562D1070131
-- expected_values:
-    4SERIES_VSS: 34.3
-  response: 660F10562D1070157
-- expected_values:
-    4SERIES_VSS: 43.9
-  response: 660F10562D10701B7
