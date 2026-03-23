@@ -1,0 +1,10 @@
+command_id: 6F1.618.22DA37|e=18,fc=1
+test_cases:
+- expected_values:
+    4SERIES_TIME_D: 0
+    4SERIES_TIME_M: 190
+    4SERIES_TIME_S: 54
+  response: |-
+    618F1100F62DA370036
+    618F121BE930005173E
+    618F12200004B43FFFF
