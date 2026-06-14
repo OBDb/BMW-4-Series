@@ -7,5 +7,5 @@ test_cases:
     4SERIES_VSS: 51.1
   response: 660F10562D10701FF
 - expected_values:
-    4SERIES_VSS: 103.7
-  response: 660F10562D107040D
+    4SERIES_VSS: 102.8
+  response: 660F10562D1070404
