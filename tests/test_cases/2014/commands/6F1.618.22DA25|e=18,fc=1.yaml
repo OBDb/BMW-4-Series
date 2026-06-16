@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     4SERIES_EOT: 0
   response: 618F10562DA25006B
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA250079
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25007A
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25007B
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25007C
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25007E
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA25007F
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA250082
+- expected_values:
+    4SERIES_EOT: 0
+  response: 618F10562DA250084

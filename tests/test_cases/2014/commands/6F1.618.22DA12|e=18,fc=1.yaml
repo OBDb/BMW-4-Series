@@ -5,4 +5,28 @@ test_cases:
   response: 618F10562DA12003B
 - expected_values:
     4SERIES_ATF_TEMP: 0
+  response: 618F10562DA120055
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA120056
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA120057
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA120059
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA12005B
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA12005C
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA12005E
+- expected_values:
+    4SERIES_ATF_TEMP: 0
+  response: 618F10562DA12005F
+- expected_values:
+    4SERIES_ATF_TEMP: 0
   response: 618F10562DA120073
