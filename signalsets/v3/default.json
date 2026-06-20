@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "6F1", "rax": "60D", "eax": "0D", "fcm1": true, "cmd": {"22": "D240"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2018, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
+{ "hdr": "6F1", "rax": "60D", "eax": "0D", "fcm1": true, "cmd": {"22": "D240"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2018, 2020, 2021, 2022, 2023, 2025], "from": 2027 },
   "signals": [
     {"id": "4SERIES_VSS_INSTR", "path": "Movement", "fmt": { "len": 16, "max": 1000, "unit": "kilometersPerHour" }, "name": "Vehicle speed (instrument cluster)", "suggestedMetric": "speed", "description": "Instrument cluster vehicle speed."}
   ]},
