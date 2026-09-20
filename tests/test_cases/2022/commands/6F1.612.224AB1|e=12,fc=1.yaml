@@ -1,0 +1,23 @@
+command_id: 6F1.612.224AB1|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_VSS2: 0
+  response: 612F105624AB10000
+- expected_values:
+    4SERIES_VSS2: 4.75
+  response: 612F105624AB101DB
+- expected_values:
+    4SERIES_VSS2: 8.25
+  response: 612F105624AB10339
+- expected_values:
+    4SERIES_VSS2: 19.39
+  response: 612F105624AB10793
+- expected_values:
+    4SERIES_VSS2: 23.17
+  response: 612F105624AB1090D
+- expected_values:
+    4SERIES_VSS2: 42.92
+  response: 612F105624AB110C4
+- expected_values:
+    4SERIES_VSS2: 45.39
+  response: 612F105624AB111BB
