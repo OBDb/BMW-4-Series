@@ -1,0 +1,8 @@
+command_id: 6F1.612.225813|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_LOAD: 0
+  response: 612F10462581300
+- expected_values:
+    4SERIES_LOAD: 174
+  response: 612F104625813E8
