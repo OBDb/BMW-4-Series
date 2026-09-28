@@ -1,0 +1,14 @@
+command_id: 6F1.612.224201|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_BARO: 71.11719
+  response: 612F105624201471E
+- expected_values:
+    4SERIES_BARO: 82.99609
+  response: 612F10562420152FF
+- expected_values:
+    4SERIES_BARO: 83
+  response: 612F1056242015300
+- expected_values:
+    4SERIES_BARO: 85.00391
+  response: 612F1056242015501
