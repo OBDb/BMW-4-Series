@@ -4,8 +4,8 @@ test_cases:
     4SERIES_CRANK_TQ: 0
   response: 612F1056258BA0000
 - expected_values:
-    4SERIES_CRANK_TQ: 50.6
-  response: 612F1056258BA01FA
+    4SERIES_CRANK_TQ: 25.5
+  response: 612F1056258BA00FF
 - expected_values:
-    4SERIES_CRANK_TQ: 129.2
-  response: 612F1056258BA050C
+    4SERIES_CRANK_TQ: 183
+  response: 612F1056258BA0726

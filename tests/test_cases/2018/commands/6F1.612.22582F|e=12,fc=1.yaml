@@ -7,8 +7,5 @@ test_cases:
     4SERIES_CAT_T: 417.85
   response: 612F10562582F1AFE
 - expected_values:
-    4SERIES_CAT_T: 419.05
-  response: 612F10562582F1B0A
-- expected_values:
-    4SERIES_CAT_T: 497.95
-  response: 612F10562582F1E1F
+    4SERIES_CAT_T: 622.95
+  response: 612F10562582F2301
