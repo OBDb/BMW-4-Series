@@ -10,5 +10,5 @@ test_cases:
     4SERIES_BOOST_P: 102
   response: 612F1056242053300
 - expected_values:
-    4SERIES_BOOST_P: 112.07812
-  response: 612F105624205380A
+    4SERIES_BOOST_P: 112.05469
+  response: 612F1056242053807
