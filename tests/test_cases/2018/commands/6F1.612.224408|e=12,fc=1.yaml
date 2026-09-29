@@ -1,0 +1,8 @@
+command_id: 6F1.612.224408|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_EOT_DME: 95.45
+  response: 612F1056244080E66
+- expected_values:
+    4SERIES_EOT_DME: 103.25
+  response: 612F1056244080EB4
