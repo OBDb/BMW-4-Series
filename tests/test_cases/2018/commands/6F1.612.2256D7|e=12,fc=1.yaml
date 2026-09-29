@@ -1,14 +1,14 @@
 command_id: 6F1.612.2256D7|e=12,fc=1
 test_cases:
 - expected_values:
-    4SERIES_FRP: 99.64
-  response: 612F1056256D71376
+    4SERIES_FRP: 78.08
+  response: 612F1056256D70F40
 - expected_values:
-    4SERIES_FRP: 102.32
-  response: 612F1056256D713FC
+    4SERIES_FRP: 102.38
+  response: 612F1056256D713FF
 - expected_values:
-    4SERIES_FRP: 107.62
-  response: 612F1056256D71505
+    4SERIES_FRP: 158.78
+  response: 612F1056256D71F03
 - expected_values:
     4SERIES_FRP: 195.92
   response: 612F1056256D72644

@@ -4,5 +4,5 @@ test_cases:
     4SERIES_OIL_LEVEL: 0
   response: 612F10462442C00
 - expected_values:
-    4SERIES_OIL_LEVEL: 107
-  response: 612F10462442C6B
+    4SERIES_OIL_LEVEL: 119
+  response: 612F10462442C77

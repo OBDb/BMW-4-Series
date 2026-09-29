@@ -1,8 +1,8 @@
 command_id: 6F1.612.22580F|e=12,fc=1
 test_cases:
 - expected_values:
-    4SERIES_IAT_DME: 51.75
-  response: 612F10462580F85
+    4SERIES_IAT_DME: 48
+  response: 612F10462580F80
 - expected_values:
-    4SERIES_IAT_DME: 78.75
-  response: 612F10462580FA9
+    4SERIES_IAT_DME: 80.25
+  response: 612F10462580FAB
