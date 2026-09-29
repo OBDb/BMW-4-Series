@@ -7,5 +7,5 @@ test_cases:
     4SERIES_IGN_TIMING_1: -24.3
   response: 612F105624A49FF0D
 - expected_values:
-    4SERIES_IGN_TIMING_1: -0.3
-  response: 612F105624A49FFFD
+    4SERIES_IGN_TIMING_1: -0.1
+  response: 612F105624A49FFFF
