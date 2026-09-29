@@ -1,8 +1,8 @@
 command_id: 6F1.612.224A2D|e=12,fc=1
 test_cases:
 - expected_values:
-    4SERIES_MAP: 95.11719
-  response: 612F105624A2D2F8F
+    4SERIES_MAP: 94.26562
+  response: 612F105624A2D2F22
 - expected_values:
     4SERIES_MAP: 101.96094
   response: 612F105624A2D32FB
