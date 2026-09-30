@@ -4,5 +4,5 @@ test_cases:
     4SERIES_LOAD_2: 0
   response: 612F104624A4B00
 - expected_values:
-    4SERIES_LOAD_2: 49.80392
-  response: 612F104624A4B7F
+    4SERIES_LOAD_2: 56.86275
+  response: 612F104624A4B91
