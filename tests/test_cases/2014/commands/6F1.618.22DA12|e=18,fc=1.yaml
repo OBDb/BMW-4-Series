@@ -1,32 +1,32 @@
 command_id: 6F1.618.22DA12|e=18,fc=1
 test_cases:
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 11
   response: 618F10562DA12003B
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 37
   response: 618F10562DA120055
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 38
   response: 618F10562DA120056
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 39
   response: 618F10562DA120057
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 41
   response: 618F10562DA120059
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 43
   response: 618F10562DA12005B
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 44
   response: 618F10562DA12005C
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 46
   response: 618F10562DA12005E
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 47
   response: 618F10562DA12005F
 - expected_values:
-    4SERIES_ATF_TEMP: 0
+    4SERIES_ATF_TEMP: 67
   response: 618F10562DA120073
