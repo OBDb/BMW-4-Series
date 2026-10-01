@@ -1,8 +1,8 @@
 command_id: 6F1.618.22DA25|e=18,fc=1
 test_cases:
 - expected_values:
-    4SERIES_EOT: 0
+    4SERIES_EOT: 27
   response: 618F10562DA25004B
 - expected_values:
-    4SERIES_EOT: 0
+    4SERIES_EOT: 112
   response: 618F10562DA2500A0
