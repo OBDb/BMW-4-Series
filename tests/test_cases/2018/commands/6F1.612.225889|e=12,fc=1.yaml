@@ -10,5 +10,5 @@ test_cases:
     4SERIES_LAMBDA: 0.99977
   response: 612F1056258890FFF
 - expected_values:
-    4SERIES_LAMBDA: 14.52488
-  response: 612F105625889E865
+    4SERIES_LAMBDA: null
+  response: 612F105625889FFFF
