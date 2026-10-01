@@ -105,7 +105,7 @@
   ]},
 { "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA12"}, "freq": 30, "dbgfilter": { "from": 2020 },
   "signals": [
-    {"id": "4SERIES_ATF_TEMP", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "ATF temperature"}
+    {"id": "4SERIES_ATF_TEMP", "path": "Engine", "fmt": { "len": 16, "max": 65487, "min": -48, "add": -48, "nullmax": 65487, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
 { "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA25"}, "freq": 30, "dbgfilter": { "years": [2020, 2023, 2025], "from": 2027 },
   "signals": [
