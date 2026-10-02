@@ -7,8 +7,8 @@ test_cases:
     4SERIES_MAP: 71.99219
   response: 612F105624A2D23FF
 - expected_values:
-    4SERIES_MAP: 76
-  response: 612F105624A2D2600
+    4SERIES_MAP: 74
+  response: 612F105624A2D2500
 - expected_values:
     4SERIES_MAP: 200.875
   response: 612F105624A2D6470
