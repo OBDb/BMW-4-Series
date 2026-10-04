@@ -1,0 +1,26 @@
+command_id: 6F1.612.225813|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_LOAD: 12
+  response: 612F10462581310
+- expected_values:
+    4SERIES_LOAD: 20.25
+  response: 612F1046258131B
+- expected_values:
+    4SERIES_LOAD: 27.75
+  response: 612F10462581325
+- expected_values:
+    4SERIES_LOAD: 30
+  response: 612F10462581328
+- expected_values:
+    4SERIES_LOAD: 31.5
+  response: 612F1046258132A
+- expected_values:
+    4SERIES_LOAD: 39
+  response: 612F10462581334
+- expected_values:
+    4SERIES_LOAD: 48
+  response: 612F10462581340
+- expected_values:
+    4SERIES_LOAD: 57.75
+  response: 612F1046258134D
