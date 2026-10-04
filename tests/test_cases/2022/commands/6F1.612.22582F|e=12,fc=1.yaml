@@ -1,0 +1,32 @@
+command_id: 6F1.612.22582F|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_CAT_T: 211.75
+  response: 612F10562582F12F1
+- expected_values:
+    4SERIES_CAT_T: 246.35
+  response: 612F10562582F144B
+- expected_values:
+    4SERIES_CAT_T: 332.55
+  response: 612F10562582F17A9
+- expected_values:
+    4SERIES_CAT_T: 381.15
+  response: 612F10562582F198F
+- expected_values:
+    4SERIES_CAT_T: 419.55
+  response: 612F10562582F1B0F
+- expected_values:
+    4SERIES_CAT_T: 436.15
+  response: 612F10562582F1BB5
+- expected_values:
+    4SERIES_CAT_T: 448.95
+  response: 612F10562582F1C35
+- expected_values:
+    4SERIES_CAT_T: 458.15
+  response: 612F10562582F1C91
+- expected_values:
+    4SERIES_CAT_T: 475.85
+  response: 612F10562582F1D42
+- expected_values:
+    4SERIES_CAT_T: 494.65
+  response: 612F10562582F1DFE
