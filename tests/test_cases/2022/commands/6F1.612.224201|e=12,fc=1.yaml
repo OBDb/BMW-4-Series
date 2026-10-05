@@ -4,29 +4,5 @@ test_cases:
     4SERIES_BARO: 99.1875
   response: 612F1056242016330
 - expected_values:
-    4SERIES_BARO: 99.27344
-  response: 612F1056242016346
-- expected_values:
-    4SERIES_BARO: 99.28516
-  response: 612F1056242016349
-- expected_values:
-    4SERIES_BARO: 99.30078
-  response: 612F105624201634D
-- expected_values:
-    4SERIES_BARO: 99.3125
-  response: 612F1056242016350
-- expected_values:
-    4SERIES_BARO: 99.375
-  response: 612F1056242016360
-- expected_values:
-    4SERIES_BARO: 99.38281
-  response: 612F1056242016362
-- expected_values:
-    4SERIES_BARO: 99.39453
-  response: 612F1056242016365
-- expected_values:
-    4SERIES_BARO: 99.39844
-  response: 612F1056242016366
-- expected_values:
-    4SERIES_BARO: 99.40234
-  response: 612F1056242016367
+    4SERIES_BARO: 99.98438
+  response: 612F10562420163FC

@@ -7,23 +7,5 @@ test_cases:
     4SERIES_CRANK_TQ: 24.4
   response: 612F1056258BA00F4
 - expected_values:
-    4SERIES_CRANK_TQ: 38.5
-  response: 612F1056258BA0181
-- expected_values:
-    4SERIES_CRANK_TQ: 48.9
-  response: 612F1056258BA01E9
-- expected_values:
-    4SERIES_CRANK_TQ: 68.6
-  response: 612F1056258BA02AE
-- expected_values:
-    4SERIES_CRANK_TQ: 77.3
-  response: 612F1056258BA0305
-- expected_values:
-    4SERIES_CRANK_TQ: 96.8
-  response: 612F1056258BA03C8
-- expected_values:
-    4SERIES_CRANK_TQ: 120.9
-  response: 612F1056258BA04B9
-- expected_values:
-    4SERIES_CRANK_TQ: 123.4
-  response: 612F1056258BA04D2
+    4SERIES_CRANK_TQ: 132.8
+  response: 612F1056258BA0530

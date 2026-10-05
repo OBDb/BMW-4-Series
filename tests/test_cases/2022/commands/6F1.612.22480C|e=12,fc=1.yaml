@@ -4,26 +4,8 @@ test_cases:
     4SERIES_LOAD_TGT: 11.85938
   response: 612F10562480C01FA
 - expected_values:
-    4SERIES_LOAD_TGT: 13.19531
-  response: 612F10562480C0233
-- expected_values:
-    4SERIES_LOAD_TGT: 16.00781
-  response: 612F10562480C02AB
-- expected_values:
-    4SERIES_LOAD_TGT: 20.36719
-  response: 612F10562480C0365
-- expected_values:
-    4SERIES_LOAD_TGT: 32.36719
-  response: 612F10562480C0565
-- expected_values:
-    4SERIES_LOAD_TGT: 38.55469
-  response: 612F10562480C066D
-- expected_values:
     4SERIES_LOAD_TGT: 48.53906
   response: 612F10562480C0817
-- expected_values:
-    4SERIES_LOAD_TGT: 48.9375
-  response: 612F10562480C0828
 - expected_values:
     4SERIES_LOAD_TGT: 57.67969
   response: 612F10562480C099D

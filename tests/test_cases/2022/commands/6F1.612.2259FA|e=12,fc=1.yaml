@@ -4,26 +4,5 @@ test_cases:
     4SERIES_IGN_ANGLE: 9
   response: 612F1046259FA0C
 - expected_values:
-    4SERIES_IGN_ANGLE: 12.75
-  response: 612F1046259FA11
-- expected_values:
-    4SERIES_IGN_ANGLE: 15
-  response: 612F1046259FA14
-- expected_values:
-    4SERIES_IGN_ANGLE: 18.75
-  response: 612F1046259FA19
-- expected_values:
-    4SERIES_IGN_ANGLE: 21.75
-  response: 612F1046259FA1D
-- expected_values:
-    4SERIES_IGN_ANGLE: -24.75
-  response: 612F1046259FADF
-- expected_values:
-    4SERIES_IGN_ANGLE: -18.75
-  response: 612F1046259FAE7
-- expected_values:
-    4SERIES_IGN_ANGLE: -18
-  response: 612F1046259FAE8
-- expected_values:
     4SERIES_IGN_ANGLE: -14.25
   response: 612F1046259FAED

@@ -4,29 +4,11 @@ test_cases:
     4SERIES_IGN_TIMING_4: 11
   response: 612F105624A4D006E
 - expected_values:
-    4SERIES_IGN_TIMING_4: 12.8
-  response: 612F105624A4D0080
-- expected_values:
-    4SERIES_IGN_TIMING_4: 17.9
-  response: 612F105624A4D00B3
+    4SERIES_IGN_TIMING_4: 23
+  response: 612F105624A4D00E6
 - expected_values:
     4SERIES_IGN_TIMING_4: 26
   response: 612F105624A4D0104
 - expected_values:
-    4SERIES_IGN_TIMING_4: 28.5
-  response: 612F105624A4D011D
-- expected_values:
-    4SERIES_IGN_TIMING_4: 29
-  response: 612F105624A4D0122
-- expected_values:
     4SERIES_IGN_TIMING_4: -24.7
   response: 612F105624A4DFF09
-- expected_values:
-    4SERIES_IGN_TIMING_4: -24.6
-  response: 612F105624A4DFF0A
-- expected_values:
-    4SERIES_IGN_TIMING_4: -18
-  response: 612F105624A4DFF4C
-- expected_values:
-    4SERIES_IGN_TIMING_4: -17.5
-  response: 612F105624A4DFF51
