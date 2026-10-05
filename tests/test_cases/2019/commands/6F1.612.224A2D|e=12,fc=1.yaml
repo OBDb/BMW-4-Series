@@ -10,5 +10,5 @@ test_cases:
     4SERIES_MAP: 74
   response: 612F105624A2D2500
 - expected_values:
-    4SERIES_MAP: 200.875
-  response: 612F105624A2D6470
+    4SERIES_MAP: 208.54688
+  response: 612F105624A2D6846

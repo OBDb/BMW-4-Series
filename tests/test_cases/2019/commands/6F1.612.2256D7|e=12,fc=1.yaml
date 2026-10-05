@@ -4,11 +4,11 @@ test_cases:
     4SERIES_FRP: 26.16
   response: 612F1056256D7051C
 - expected_values:
-    4SERIES_FRP: 189.42
-  response: 612F1056256D724FF
+    4SERIES_FRP: 158.7
+  response: 612F1056256D71EFF
 - expected_values:
-    4SERIES_FRP: 199.68
-  response: 612F1056256D72700
+    4SERIES_FRP: 194.56
+  response: 612F1056256D72600
 - expected_values:
     4SERIES_FRP: 248.38
   response: 612F1056256D73083
