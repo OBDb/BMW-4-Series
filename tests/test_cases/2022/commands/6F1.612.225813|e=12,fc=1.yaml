@@ -16,6 +16,9 @@ test_cases:
     4SERIES_LOAD: 31.5
   response: 612F1046258132A
 - expected_values:
+    4SERIES_LOAD: 32.25
+  response: 612F1046258132B
+- expected_values:
     4SERIES_LOAD: 39
   response: 612F10462581334
 - expected_values:

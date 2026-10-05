@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     4SERIES_BOOST_P_SET: 99.39844
   response: 612F105624AB06366
+- expected_values:
+    4SERIES_BOOST_P_SET: 99.97266
+  response: 612F105624AB063F9
+- expected_values:
+    4SERIES_BOOST_P_SET: 99.98438
+  response: 612F105624AB063FC

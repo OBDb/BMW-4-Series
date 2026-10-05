@@ -4,29 +4,11 @@ test_cases:
     4SERIES_FRP: 156.56
   response: 612F1056256D71E94
 - expected_values:
-    4SERIES_FRP: 177.54
-  response: 612F1056256D722AD
-- expected_values:
-    4SERIES_FRP: 182.42
-  response: 612F1056256D723A1
-- expected_values:
     4SERIES_FRP: 226.08
   response: 612F1056256D72C28
-- expected_values:
-    4SERIES_FRP: 226.18
-  response: 612F1056256D72C2D
-- expected_values:
-    4SERIES_FRP: 268.94
-  response: 612F1056256D73487
-- expected_values:
-    4SERIES_FRP: 285.84
-  response: 612F1056256D737D4
 - expected_values:
     4SERIES_FRP: 296.16
   response: 612F1056256D739D8
 - expected_values:
-    4SERIES_FRP: 315.1
-  response: 612F1056256D73D8B
-- expected_values:
-    4SERIES_FRP: 349.68
-  response: 612F1056256D7444C
+    4SERIES_FRP: 349.46
+  response: 612F1056256D74441

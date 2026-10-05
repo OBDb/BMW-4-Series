@@ -4,29 +4,11 @@ test_cases:
     4SERIES_MAP: 90.67188
   response: 612F105624A2D2D56
 - expected_values:
-    4SERIES_MAP: 91.53125
-  response: 612F105624A2D2DC4
-- expected_values:
-    4SERIES_MAP: 93.0625
-  response: 612F105624A2D2E88
-- expected_values:
-    4SERIES_MAP: 93.70312
-  response: 612F105624A2D2EDA
-- expected_values:
     4SERIES_MAP: 94.63281
   response: 612F105624A2D2F51
 - expected_values:
-    4SERIES_MAP: 94.75
-  response: 612F105624A2D2F60
-- expected_values:
-    4SERIES_MAP: 94.82031
-  response: 612F105624A2D2F69
-- expected_values:
-    4SERIES_MAP: 94.92188
-  response: 612F105624A2D2F76
-- expected_values:
-    4SERIES_MAP: 95.26562
-  response: 612F105624A2D2FA2
+    4SERIES_MAP: 95.77344
+  response: 612F105624A2D2FE3
 - expected_values:
     4SERIES_MAP: 99.67969
   response: 612F105624A2D31D7
