@@ -25,3 +25,8 @@ test_cases:
   response: |-
     612F1100762558E0000
     612F121F1A3FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 61877
+  response: |-
+    612F1100762558E0000
+    612F121F1B5FFFFFFFF
