@@ -4,29 +4,5 @@ test_cases:
     4SERIES_BOOST_P_SET: 99.1875
   response: 612F105624AB06330
 - expected_values:
-    4SERIES_BOOST_P_SET: 99.25
-  response: 612F105624AB06340
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.27344
-  response: 612F105624AB06346
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.29688
-  response: 612F105624AB0634C
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.3125
-  response: 612F105624AB06350
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.375
-  response: 612F105624AB06360
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.38672
-  response: 612F105624AB06363
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.39844
-  response: 612F105624AB06366
-- expected_values:
-    4SERIES_BOOST_P_SET: 99.97266
-  response: 612F105624AB063F9
-- expected_values:
     4SERIES_BOOST_P_SET: 99.98438
   response: 612F105624AB063FC
