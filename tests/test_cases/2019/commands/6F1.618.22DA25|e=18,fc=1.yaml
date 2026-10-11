@@ -4,8 +4,8 @@ test_cases:
     4SERIES_EOT: 0
   response: 618F10562DA250030
 - expected_values:
-    4SERIES_EOT: 85
-  response: 618F10562DA250085
+    4SERIES_EOT: 49
+  response: 618F10562DA250061
 - expected_values:
     4SERIES_EOT: 111
   response: 618F10562DA25009F
