@@ -7,5 +7,11 @@ test_cases:
     4SERIES_ATF_TEMP: 71
   response: 618F10562DA120077
 - expected_values:
+    4SERIES_ATF_TEMP: 81
+  response: 618F10562DA120081
+- expected_values:
+    4SERIES_ATF_TEMP: 83
+  response: 618F10562DA120083
+- expected_values:
     4SERIES_ATF_TEMP: 86
   response: 618F10562DA120086

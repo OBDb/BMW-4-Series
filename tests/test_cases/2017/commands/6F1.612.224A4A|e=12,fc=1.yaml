@@ -4,23 +4,8 @@ test_cases:
     4SERIES_IGN_TIMING_2: 0.8
   response: 612F105624A4A0008
 - expected_values:
-    4SERIES_IGN_TIMING_2: 2
-  response: 612F105624A4A0014
-- expected_values:
-    4SERIES_IGN_TIMING_2: 9
-  response: 612F105624A4A005A
-- expected_values:
-    4SERIES_IGN_TIMING_2: 11
-  response: 612F105624A4A006E
-- expected_values:
-    4SERIES_IGN_TIMING_2: 16
-  response: 612F105624A4A00A0
-- expected_values:
-    4SERIES_IGN_TIMING_2: 22.5
-  response: 612F105624A4A00E1
-- expected_values:
     4SERIES_IGN_TIMING_2: -23.5
   response: 612F105624A4AFF15
 - expected_values:
-    4SERIES_IGN_TIMING_2: -16.5
-  response: 612F105624A4AFF5B
+    4SERIES_IGN_TIMING_2: -0.1
+  response: 612F105624A4AFFFF

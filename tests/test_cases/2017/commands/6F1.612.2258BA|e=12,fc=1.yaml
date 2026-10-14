@@ -13,6 +13,9 @@ test_cases:
     4SERIES_CRANK_TQ: 35.7
   response: 612F1056258BA0165
 - expected_values:
+    4SERIES_CRANK_TQ: 50.9
+  response: 612F1056258BA01FD
+- expected_values:
     4SERIES_CRANK_TQ: 51.2
   response: 612F1056258BA0200
 - expected_values:
@@ -21,6 +24,9 @@ test_cases:
 - expected_values:
     4SERIES_CRANK_TQ: 54.1
   response: 612F1056258BA021D
+- expected_values:
+    4SERIES_CRANK_TQ: 64.5
+  response: 612F1056258BA0285
 - expected_values:
     4SERIES_CRANK_TQ: 85.9
   response: 612F1056258BA035B
