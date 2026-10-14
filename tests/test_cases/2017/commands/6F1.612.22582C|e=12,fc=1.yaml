@@ -1,0 +1,26 @@
+command_id: 6F1.612.22582C|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_LAMBDA_2: 0.97266
+  response: 612F10562582C0F90
+- expected_values:
+    4SERIES_LAMBDA_2: 0.98145
+  response: 612F10562582C0FB4
+- expected_values:
+    4SERIES_LAMBDA_2: 0.99683
+  response: 612F10562582C0FF3
+- expected_values:
+    4SERIES_LAMBDA_2: 1.00537
+  response: 612F10562582C1016
+- expected_values:
+    4SERIES_LAMBDA_2: 1.01416
+  response: 612F10562582C103A
+- expected_values:
+    4SERIES_LAMBDA_2: 1.03687
+  response: 612F10562582C1097
+- expected_values:
+    4SERIES_LAMBDA_2: 1.85669
+  response: 612F10562582C1DB5
+- expected_values:
+    4SERIES_LAMBDA_2: 9.66016
+  response: 612F10562582C9A90

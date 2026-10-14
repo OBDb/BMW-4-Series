@@ -1,0 +1,23 @@
+command_id: 6F1.612.22580F|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_IAT_DME: 40.5
+  response: 612F10462580F76
+- expected_values:
+    4SERIES_IAT_DME: 41.25
+  response: 612F10462580F77
+- expected_values:
+    4SERIES_IAT_DME: 42
+  response: 612F10462580F78
+- expected_values:
+    4SERIES_IAT_DME: 43.5
+  response: 612F10462580F7A
+- expected_values:
+    4SERIES_IAT_DME: 47.25
+  response: 612F10462580F7F
+- expected_values:
+    4SERIES_IAT_DME: 51
+  response: 612F10462580F84
+- expected_values:
+    4SERIES_IAT_DME: 51.75
+  response: 612F10462580F85

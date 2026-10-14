@@ -1,0 +1,26 @@
+command_id: 6F1.612.224408|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_EOT_DME: 85.05
+  response: 612F1056244080DFE
+- expected_values:
+    4SERIES_EOT_DME: 87.15
+  response: 612F1056244080E13
+- expected_values:
+    4SERIES_EOT_DME: 88.95
+  response: 612F1056244080E25
+- expected_values:
+    4SERIES_EOT_DME: 89.25
+  response: 612F1056244080E28
+- expected_values:
+    4SERIES_EOT_DME: 89.75
+  response: 612F1056244080E2D
+- expected_values:
+    4SERIES_EOT_DME: 89.85
+  response: 612F1056244080E2E
+- expected_values:
+    4SERIES_EOT_DME: 90.25
+  response: 612F1056244080E32
+- expected_values:
+    4SERIES_EOT_DME: 90.45
+  response: 612F1056244080E34
