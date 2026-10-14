@@ -15,3 +15,28 @@ test_cases:
   response: |-
     612F1100762558E0002
     612F1211E33FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138805
+  response: |-
+    612F1100762558E0002
+    612F1211E35FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138806
+  response: |-
+    612F1100762558E0002
+    612F1211E36FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138807
+  response: |-
+    612F1100762558E0002
+    612F1211E37FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138810
+  response: |-
+    612F1100762558E0002
+    612F1211E3AFFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138816
+  response: |-
+    612F1100762558E0002
+    612F1211E40FFFFFFFF

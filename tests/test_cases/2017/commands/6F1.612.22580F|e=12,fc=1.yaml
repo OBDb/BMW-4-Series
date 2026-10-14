@@ -16,8 +16,14 @@ test_cases:
     4SERIES_IAT_DME: 47.25
   response: 612F10462580F7F
 - expected_values:
+    4SERIES_IAT_DME: 49.5
+  response: 612F10462580F82
+- expected_values:
     4SERIES_IAT_DME: 51
   response: 612F10462580F84
 - expected_values:
     4SERIES_IAT_DME: 51.75
   response: 612F10462580F85
+- expected_values:
+    4SERIES_IAT_DME: 53.25
+  response: 612F10462580F87

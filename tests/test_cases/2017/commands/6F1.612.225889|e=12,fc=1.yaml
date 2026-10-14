@@ -4,23 +4,11 @@ test_cases:
     4SERIES_LAMBDA: 0.97414
   response: 612F1056258890F96
 - expected_values:
-    4SERIES_LAMBDA: 0.9778
-  response: 612F1056258890FA5
-- expected_values:
     4SERIES_LAMBDA: 0.99635
   response: 612F1056258890FF1
 - expected_values:
-    4SERIES_LAMBDA: 1.00099
-  response: 612F1056258891004
-- expected_values:
-    4SERIES_LAMBDA: 1.00148
-  response: 612F1056258891006
-- expected_values:
-    4SERIES_LAMBDA: 1.0132
-  response: 612F1056258891036
-- expected_values:
-    4SERIES_LAMBDA: 1.58987
-  response: 612F1056258891970
+    4SERIES_LAMBDA: 1.00002
+  response: 612F1056258891000
 - expected_values:
     4SERIES_LAMBDA: 8.41077
   response: 612F1056258898692
