@@ -1,0 +1,26 @@
+command_id: 6F1.612.2258BA|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_CRANK_TQ: 0
+  response: 612F1056258BA0000
+- expected_values:
+    4SERIES_CRANK_TQ: 24.2
+  response: 612F1056258BA00F2
+- expected_values:
+    4SERIES_CRANK_TQ: 26.9
+  response: 612F1056258BA010D
+- expected_values:
+    4SERIES_CRANK_TQ: 35.7
+  response: 612F1056258BA0165
+- expected_values:
+    4SERIES_CRANK_TQ: 51.2
+  response: 612F1056258BA0200
+- expected_values:
+    4SERIES_CRANK_TQ: 51.7
+  response: 612F1056258BA0205
+- expected_values:
+    4SERIES_CRANK_TQ: 54.1
+  response: 612F1056258BA021D
+- expected_values:
+    4SERIES_CRANK_TQ: 85.9
+  response: 612F1056258BA035B

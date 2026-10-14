@@ -1,0 +1,17 @@
+command_id: 6F1.612.22558E|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_ODO_DME: 138801
+  response: |-
+    612F1100762558E0002
+    612F1211E31FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138802
+  response: |-
+    612F1100762558E0002
+    612F1211E32FFFFFFFF
+- expected_values:
+    4SERIES_ODO_DME: 138803
+  response: |-
+    612F1100762558E0002
+    612F1211E33FFFFFFFF

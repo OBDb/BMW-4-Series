@@ -1,0 +1,26 @@
+command_id: 6F1.612.22442C|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_OIL_LEVEL: 98
+  response: 612F10462442C62
+- expected_values:
+    4SERIES_OIL_LEVEL: 99
+  response: 612F10462442C63
+- expected_values:
+    4SERIES_OIL_LEVEL: 100
+  response: 612F10462442C64
+- expected_values:
+    4SERIES_OIL_LEVEL: 101
+  response: 612F10462442C65
+- expected_values:
+    4SERIES_OIL_LEVEL: 102
+  response: 612F10462442C66
+- expected_values:
+    4SERIES_OIL_LEVEL: 106
+  response: 612F10462442C6A
+- expected_values:
+    4SERIES_OIL_LEVEL: 107
+  response: 612F10462442C6B
+- expected_values:
+    4SERIES_OIL_LEVEL: 112
+  response: 612F10462442C70
