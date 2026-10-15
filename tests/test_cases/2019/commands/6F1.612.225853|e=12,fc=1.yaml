@@ -1,0 +1,14 @@
+command_id: 6F1.612.225853|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_IBS_VOLTAGE: 11.208
+  response: 612F1056258532BC8
+- expected_values:
+    4SERIES_IBS_VOLTAGE: 12.544
+  response: 612F1056258533100
+- expected_values:
+    4SERIES_IBS_VOLTAGE: 12.799
+  response: 612F10562585331FF
+- expected_values:
+    4SERIES_IBS_VOLTAGE: 15.105
+  response: 612F1056258533B01
