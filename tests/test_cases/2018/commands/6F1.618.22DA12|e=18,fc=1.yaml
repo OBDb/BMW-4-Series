@@ -1,8 +1,8 @@
 command_id: 6F1.618.22DA12|e=18,fc=1
 test_cases:
 - expected_values:
-    4SERIES_ATF_TEMP: 29
-  response: 618F10562DA12004D
+    4SERIES_ATF_TEMP: 28
+  response: 618F10562DA12004C
 - expected_values:
     4SERIES_ATF_TEMP: 105
   response: 618F10562DA120099

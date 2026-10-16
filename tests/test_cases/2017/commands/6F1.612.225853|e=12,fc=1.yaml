@@ -1,20 +1,14 @@
 command_id: 6F1.612.225853|e=12,fc=1
 test_cases:
 - expected_values:
-    4SERIES_IBS_VOLTAGE: 12.198
-  response: 612F1056258532FA6
+    4SERIES_IBS_VOLTAGE: 12.11
+  response: 612F1056258532F4E
 - expected_values:
-    4SERIES_IBS_VOLTAGE: 14.42
-  response: 612F1056258533854
+    4SERIES_IBS_VOLTAGE: 14.325
+  response: 612F10562585337F5
 - expected_values:
-    4SERIES_IBS_VOLTAGE: 14.442
-  response: 612F105625853386A
+    4SERIES_IBS_VOLTAGE: 14.352
+  response: 612F1056258533810
 - expected_values:
-    4SERIES_IBS_VOLTAGE: 14.444
-  response: 612F105625853386C
-- expected_values:
-    4SERIES_IBS_VOLTAGE: 14.475
-  response: 612F105625853388B
-- expected_values:
-    4SERIES_IBS_VOLTAGE: 14.48
-  response: 612F1056258533890
+    4SERIES_IBS_VOLTAGE: 14.623
+  response: 612F105625853391F
