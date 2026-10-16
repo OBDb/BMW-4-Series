@@ -1,0 +1,20 @@
+command_id: 6F1.612.225805|e=12,fc=1
+test_cases:
+- expected_values:
+    4SERIES_ECT_DME: 56.85
+  response: 612F1056258050CE4
+- expected_values:
+    4SERIES_ECT_DME: 84.15
+  response: 612F1056258050DF5
+- expected_values:
+    4SERIES_ECT_DME: 87.75
+  response: 612F1056258050E19
+- expected_values:
+    4SERIES_ECT_DME: 90.25
+  response: 612F1056258050E32
+- expected_values:
+    4SERIES_ECT_DME: 92.65
+  response: 612F1056258050E4A
+- expected_values:
+    4SERIES_ECT_DME: 94.65
+  response: 612F1056258050E5E
