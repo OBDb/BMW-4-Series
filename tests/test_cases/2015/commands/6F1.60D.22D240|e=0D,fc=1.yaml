@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     4SERIES_VSS_INSTR: 0
   response: 60DF10562D2400000
+- expected_values:
+    4SERIES_VSS_INSTR: 5
+  response: 60DF10562D2400005
+- expected_values:
+    4SERIES_VSS_INSTR: 8
+  response: 60DF10562D2400008
+- expected_values:
+    4SERIES_VSS_INSTR: 37
+  response: 60DF10562D2400025
+- expected_values:
+    4SERIES_VSS_INSTR: 51
+  response: 60DF10562D2400033
+- expected_values:
+    4SERIES_VSS_INSTR: 54
+  response: 60DF10562D2400036
+- expected_values:
+    4SERIES_VSS_INSTR: 70
+  response: 60DF10562D2400046

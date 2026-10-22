@@ -1,20 +1,8 @@
 command_id: 6F1.618.22DA12|e=18,fc=1
 test_cases:
 - expected_values:
-    4SERIES_ATF_TEMP: 47
-  response: 618F10562DA12005F
-- expected_values:
-    4SERIES_ATF_TEMP: 68
-  response: 618F10562DA120074
-- expected_values:
-    4SERIES_ATF_TEMP: 71
-  response: 618F10562DA120077
-- expected_values:
-    4SERIES_ATF_TEMP: 81
-  response: 618F10562DA120081
-- expected_values:
-    4SERIES_ATF_TEMP: 83
-  response: 618F10562DA120083
+    4SERIES_ATF_TEMP: 33
+  response: 618F10562DA120051
 - expected_values:
     4SERIES_ATF_TEMP: 86
   response: 618F10562DA120086
