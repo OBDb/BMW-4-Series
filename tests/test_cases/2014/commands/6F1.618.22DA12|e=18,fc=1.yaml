@@ -4,29 +4,5 @@ test_cases:
     4SERIES_ATF_TEMP: 11
   response: 618F10562DA12003B
 - expected_values:
-    4SERIES_ATF_TEMP: 37
-  response: 618F10562DA120055
-- expected_values:
-    4SERIES_ATF_TEMP: 38
-  response: 618F10562DA120056
-- expected_values:
-    4SERIES_ATF_TEMP: 39
-  response: 618F10562DA120057
-- expected_values:
-    4SERIES_ATF_TEMP: 41
-  response: 618F10562DA120059
-- expected_values:
-    4SERIES_ATF_TEMP: 43
-  response: 618F10562DA12005B
-- expected_values:
-    4SERIES_ATF_TEMP: 44
-  response: 618F10562DA12005C
-- expected_values:
-    4SERIES_ATF_TEMP: 46
-  response: 618F10562DA12005E
-- expected_values:
-    4SERIES_ATF_TEMP: 47
-  response: 618F10562DA12005F
-- expected_values:
-    4SERIES_ATF_TEMP: 67
-  response: 618F10562DA120073
+    4SERIES_ATF_TEMP: 79
+  response: 618F10562DA12007F

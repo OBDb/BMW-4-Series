@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     4SERIES_ATF_TEMP: 5
   response: 618F10562DA120035
+- expected_values:
+    4SERIES_ATF_TEMP: 35
+  response: 618F10562DA120053
+- expected_values:
+    4SERIES_ATF_TEMP: 39
+  response: 618F10562DA120057
+- expected_values:
+    4SERIES_ATF_TEMP: 80
+  response: 618F10562DA120080
+- expected_values:
+    4SERIES_ATF_TEMP: 81
+  response: 618F10562DA120081

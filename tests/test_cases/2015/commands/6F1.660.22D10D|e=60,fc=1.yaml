@@ -1,6 +1,36 @@
 command_id: 6F1.660.22D10D|e=60,fc=1
 test_cases:
 - expected_values:
+    4SERIES_ODO1: 73530
+    4SERIES_ODO2: 73530
+  response: |-
+    660F1100B62D10D0001
+    660F1211F3A00011F3A
+- expected_values:
+    4SERIES_ODO1: 79265
+    4SERIES_ODO2: 79265
+  response: |-
+    660F1100B62D10D0001
+    660F12135A1000135A1
+- expected_values:
+    4SERIES_ODO1: 79266
+    4SERIES_ODO2: 79266
+  response: |-
+    660F1100B62D10D0001
+    660F12135A2000135A2
+- expected_values:
+    4SERIES_ODO1: 79267
+    4SERIES_ODO2: 79267
+  response: |-
+    660F1100B62D10D0001
+    660F12135A3000135A3
+- expected_values:
+    4SERIES_ODO1: 79268
+    4SERIES_ODO2: 79268
+  response: |-
+    660F1100B62D10D0001
+    660F12135A4000135A4
+- expected_values:
     4SERIES_ODO1: 79275
     4SERIES_ODO2: 79275
   response: |-
