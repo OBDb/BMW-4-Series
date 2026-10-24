@@ -1,29 +1,29 @@
 command_id: 6F1.612.225813|e=12,fc=1
 test_cases:
 - expected_values:
-    4SERIES_LOAD: 11.25
+    4SERIES_LOAD: 5.88235
   response: 612F1046258130F
 - expected_values:
-    4SERIES_LOAD: 12
+    4SERIES_LOAD: 6.27451
   response: 612F10462581310
 - expected_values:
-    4SERIES_LOAD: 22.5
+    4SERIES_LOAD: 11.76471
   response: 612F1046258131E
 - expected_values:
-    4SERIES_LOAD: 23.25
+    4SERIES_LOAD: 12.15686
   response: 612F1046258131F
 - expected_values:
-    4SERIES_LOAD: 24
+    4SERIES_LOAD: 12.54902
   response: 612F10462581320
 - expected_values:
-    4SERIES_LOAD: 28.5
+    4SERIES_LOAD: 14.90196
   response: 612F10462581326
 - expected_values:
-    4SERIES_LOAD: 39.75
+    4SERIES_LOAD: 20.78431
   response: 612F10462581335
 - expected_values:
-    4SERIES_LOAD: 40.5
+    4SERIES_LOAD: 21.17647
   response: 612F10462581336
 - expected_values:
-    4SERIES_LOAD: 63
+    4SERIES_LOAD: 32.94118
   response: 612F10462581354
