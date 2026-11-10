@@ -9,7 +9,7 @@
   ]},
 { "hdr": "6F1", "rax": "612", "eax": "12", "fcm1": true, "cmd": {"22": "4205"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2020, 2021], "from": 2023 },
   "signals": [
-    {"id": "4SERIES_BOOST_P", "path": "Engine", "fmt": { "len": 16, "max": 511.99, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure"}
+    {"id": "4SERIES_BOOST_P", "path": "Engine", "fmt": { "len": 16, "max": 511.99, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "6F1", "rax": "612", "eax": "12", "fcm1": true, "cmd": {"22": "4408"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2020, 2021], "from": 2023 },
   "signals": [
@@ -119,9 +119,22 @@
   "signals": [
     {"id": "4SERIES_EOT", "path": "Engine", "fmt": { "len": 16, "max": 250, "min": -49, "add": -48, "sign": true, "nullmin": -49, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA2E"}, "freq": 30, "dbgfilter": { "years": [2020, 2023, 2025], "from": 2027 },
+{ "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA2E"}, "freq": 0.25, "dbgfilter": { "years": [2020, 2023, 2025], "from": 2027 },
   "signals": [
-    {"id": "4SERIES_GEAR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+    {"id": "4SERIES_GEAR", "path": "Engine", "name": "Gear", "suggestedMetric": "gearSelector", "fmt": {"len": 8, "map": {
+          "0":  { "description": "Park",    "value": "PARK" },
+          "1":  { "description": "Reverse", "value": "REVERSE" },
+          "2":  { "description": "Neutral", "value": "NEUTRAL" },
+          "3":  { "description": "Drive",   "value": "DRIVE" },
+          "4":  { "description": "Drive",   "value": "DRIVE" },
+          "5":  { "description": "Drive",   "value": "DRIVE" },
+          "6":  { "description": "Drive",   "value": "DRIVE" },
+          "7":  { "description": "Drive",   "value": "DRIVE" },
+          "8":  { "description": "Drive",   "value": "DRIVE" },
+          "9":  { "description": "Drive",   "value": "DRIVE" },
+          "16": { "description": "Drive",   "value": "DRIVE" }
+        }}
+    }
   ]},
 { "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA37"}, "freq": 30, "dbgfilter": { "from": 2020 },
   "signals": [
