@@ -1,23 +1,23 @@
 command_id: 6F1.618.22DA2E|e=18,fc=1
 test_cases:
 - expected_values:
-    4SERIES_GEAR: 0
+    4SERIES_GEAR: PARK
   response: 618F10562DA2E0000
 - expected_values:
-    4SERIES_GEAR: 1
+    4SERIES_GEAR: REVERSE
   response: 618F10562DA2E0101
 - expected_values:
-    4SERIES_GEAR: 3
+    4SERIES_GEAR: DRIVE
   response: 618F10562DA2E0303
 - expected_values:
-    4SERIES_GEAR: 4
+    4SERIES_GEAR: DRIVE
   response: 618F10562DA2E0403
 - expected_values:
-    4SERIES_GEAR: 7
+    4SERIES_GEAR: DRIVE
   response: 618F10562DA2E0703
 - expected_values:
-    4SERIES_GEAR: 8
+    4SERIES_GEAR: DRIVE
   response: 618F10562DA2E0803
 - expected_values:
-    4SERIES_GEAR: 9
+    4SERIES_GEAR: DRIVE
   response: 618F10562DA2E0903
