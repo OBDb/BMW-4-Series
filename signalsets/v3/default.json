@@ -138,9 +138,9 @@
   ]},
 { "hdr": "6F1", "rax": "618", "eax": "18", "fcm1": true, "cmd": {"22": "DA37"}, "freq": 30, "filter": { "to": 2020, "from": 2028 }, "dbgfilter": { "from": 2020 },
   "signals": [
-    {"id": "4SERIES_TIME_D", "path": "Engine", "fmt": {           "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in D"},
-    {"id": "4SERIES_TIME_S", "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in S"},
-    {"id": "4SERIES_TIME_M", "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "scalar" }, "name": "Time in M"}
+    {"id": "4SERIES_TIME_D", "path": "Engine", "fmt": {           "len": 32, "max": 4294967295, "nullmax": 4294967295, "unit": "scalar" }, "name": "Time in D"},
+    {"id": "4SERIES_TIME_S", "path": "Engine", "fmt": {"bix": 32, "len": 32, "max": 4294967295,                        "unit": "scalar" }, "name": "Time in S"},
+    {"id": "4SERIES_TIME_M", "path": "Engine", "fmt": {"bix": 64, "len": 32, "max": 4294967295,                        "unit": "scalar" }, "name": "Time in M"}
   ]},
 { "hdr": "6F1", "rax": "629", "eax": "29", "fcm1": true, "cmd": {"22": "DBE4"}, "freq": 0.25, "dbgfilter": { "years": [2020, 2023, 2025], "from": 2027 },
   "signals": [
